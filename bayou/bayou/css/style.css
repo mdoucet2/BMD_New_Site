@@ -591,19 +591,16 @@
 /*********************************************************************************/						
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,800);
 
-body {
-  font-family: 'Open Sans';
-  font-size: 1.5em;
-  background: #eee;
-}
 
-.content {
+ .faq {
   width: 80%;
   padding: 20px;
   margin: 0 auto;
   padding: 0 60px 0 0;
-}
-
+  }  
+   
+   
+   
 .centerplease {
   margin: 0 auto;
   max-width: 270px;
@@ -612,7 +609,7 @@ body {
 
 .question {
   position: relative;
-  background: #8FBC8F;
+  background: #A2DED0;
   margin: 0;
   padding: 10px 10px 10px 50px;
   display: block;
@@ -621,7 +618,7 @@ body {
 }
 
 .answers {
-  background: #999;
+  background: #F2F1EF;
   padding: 0px 15px;
   margin: 5px 0;
   height: 0;
